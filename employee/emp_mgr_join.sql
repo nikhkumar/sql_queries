@@ -1,3 +1,4 @@
+-- Create employee table with his/her manager id
 CREATE TABLE test.employee
 (
     id numeric(5,0) NOT NULL,
